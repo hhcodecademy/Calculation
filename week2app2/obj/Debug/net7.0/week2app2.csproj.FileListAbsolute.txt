@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\bin\Debug\net7.0\week2app2.exe
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\bin\Debug\net7.0\week2app2.deps.json
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\bin\Debug\net7.0\week2app2.runtimeconfig.json
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\bin\Debug\net7.0\week2app2.dll
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\bin\Debug\net7.0\week2app2.pdb
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.sourcelink.json
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.dll
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\refint\week2app2.dll
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.pdb
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\week2app2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\code_academy_projects\week2app2\obj\Debug\net7.0\ref\week2app2.dll
