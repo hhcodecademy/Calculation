@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj": {}
+    "C:\\Users\\nihadvm\\Desktop\\Teacherfiles\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj": {
+    "C:\\Users\\nihadvm\\Desktop\\Teacherfiles\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
+        "projectUniqueName": "C:\\Users\\nihadvm\\Desktop\\Teacherfiles\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
         "projectName": "Week2App1",
-        "projectPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
-        "packagesPath": "C:\\Users\\huseyn.hasanli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\obj\\",
+        "projectPath": "C:\\Users\\nihadvm\\Desktop\\Teacherfiles\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
+        "packagesPath": "C:\\Users\\nihadvm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nihadvm\\Desktop\\Teacherfiles\\Calculation\\Week2App1\\Week2App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\huseyn.hasanli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nihadvm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

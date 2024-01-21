@@ -4,52 +4,53 @@
     {
         static void Main(string[] args)
         {
-
             float firstNumber;
             float secondNumber;
 
             Console.WriteLine("Please enter first Number");
-            firstNumber= float.Parse( Console.ReadLine());
+            firstNumber = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Please enter second Number");
             secondNumber = float.Parse(Console.ReadLine());
 
-            //rustem
             float resultSum = firstNumber + secondNumber;
+            Console.WriteLine("Addition result: " + resultSum);
 
-            Console.WriteLine("Addition result: "+resultSum);
-
-            //narmin
             float resultMinus = firstNumber - secondNumber;
+            Console.WriteLine("Minus result: " + resultMinus);
 
-            Console.WriteLine("Minus result: "+resultMinus);
+            float resultMultiple = firstNumber * secondNumber;
+            Console.WriteLine("Multiple result: " + resultMultiple);
 
-            //nicat
-            float resultMultipl = firstNumber * secondNumber;
-
-            Console.WriteLine("Multipl result: " + resultMultipl);
-
-            //fuzuli
             float resultDivide = firstNumber / secondNumber;
             Console.WriteLine("Divide result: " + resultDivide);
 
+            Console.WriteLine("Avarage of the two: " + resultSum / 2);
+
+            string bigResultName;
             float bigResult;
             if (resultSum > resultMinus)
             {
                 bigResult = resultSum;
+                bigResultName = "Result of sum";
             }
-            else {
-
-                bigResult = resultMinus;
-            }
-
-            if (bigResult > resultMultipl)
+            else
             {
-                bigResult = bigResult;
+                bigResult = resultMinus;
+                bigResultName = "Result of minus";
             }
-            else {
-                bigResult = resultMultipl;
+            if (bigResult < resultDivide)
+            {
+                bigResult = resultDivide;
+                bigResultName = "Result of divide";
             }
+            if (bigResult < resultMultiple)
+            {
+                bigResult = resultMultiple;
+                bigResultName = "Result of multiple";
+            }
+            Console.WriteLine("The biggest result: " + bigResultName + " with " + bigResult);
         }
+
     }
 }
