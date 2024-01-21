@@ -33,23 +33,53 @@
             float resultDivide = firstNumber / secondNumber;
             Console.WriteLine("Divide result: " + resultDivide);
 
+            //float bigResult;
+            //if (resultSum > resultMinus)
+            //{
+            //    bigResult = resultSum;
+            //}
+            //else {
+
+            //    bigResult = resultMinus;
+            //}
+
+            //if (bigResult > resultMultipl)
+            //{
+            //    bigResult = bigResult;
+            //}
+            //else {
+            //    bigResult = resultMultipl;
+            //}
+
+
             float bigResult;
-            if (resultSum > resultMinus)
+
+            if (resultSum > resultMinus && resultSum > resultMultipl && resultSum > resultDivide)
             {
                 bigResult = resultSum;
             }
-            else {
+            else if (resultMinus > resultSum && resultMinus > resultMultipl && resultMinus > resultDivide)
+            {
 
                 bigResult = resultMinus;
             }
-
-            if (bigResult > resultMultipl)
+            else if (resultMultipl > resultSum && resultMultipl > resultMinus && resultMultipl > resultDivide)
             {
-                bigResult = bigResult;
-            }
-            else {
+
                 bigResult = resultMultipl;
             }
+
+            else
+            {
+
+                bigResult = resultDivide;
+
+            }
+
+            Console.WriteLine($"The biggest figure : {bigResult}");
+
+
+
         }
     }
 }

@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\huseyn.hasanli\\.nuget\\packages\\": {},
+    "C:\\Users\\Semra Albendeyeva\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
+      "projectUniqueName": "C:\\Users\\Semra Albendeyeva\\OneDrive\\Рабочий стол\\Yeni tedris Code Academy\\Newnewnew\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
       "projectName": "Week2App1",
-      "projectPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
-      "packagesPath": "C:\\Users\\huseyn.hasanli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\obj\\",
+      "projectPath": "C:\\Users\\Semra Albendeyeva\\OneDrive\\Рабочий стол\\Yeni tedris Code Academy\\Newnewnew\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
+      "packagesPath": "C:\\Users\\Semra Albendeyeva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Semra Albendeyeva\\OneDrive\\Рабочий стол\\Yeni tedris Code Academy\\Newnewnew\\Calculation\\Week2App1\\Week2App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\huseyn.hasanli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Semra Albendeyeva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
