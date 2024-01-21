@@ -50,6 +50,8 @@
             else {
                 bigResult = resultMultipl;
             }
+            Console.WriteLine("Bigger Number:"bigResult);
+        
         }
     }
 }
