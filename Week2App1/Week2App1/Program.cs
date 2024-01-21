@@ -14,42 +14,42 @@
             Console.WriteLine("Please enter second Number");
             secondNumber = float.Parse(Console.ReadLine());
 
-            //rustem
+            
             float resultSum = firstNumber + secondNumber;
 
             Console.WriteLine("Addition result: "+resultSum);
 
-            //narmin
             float resultMinus = firstNumber - secondNumber;
 
             Console.WriteLine("Minus result: "+resultMinus);
 
-            //nicat
             float resultMultipl = firstNumber * secondNumber;
 
             Console.WriteLine("Multipl result: " + resultMultipl);
 
-            //fuzuli
             float resultDivide = firstNumber / secondNumber;
             Console.WriteLine("Divide result: " + resultDivide);
 
-            float bigResult;
-            if (resultSum > resultMinus)
-            {
-                bigResult = resultSum;
-            }
-            else {
+            float bigResult=0;
 
-                bigResult = resultMinus;
-            }
-
-            if (bigResult > resultMultipl)
+            if (resultSum > bigResult)
             {
-                bigResult = bigResult;
+                bigResult= resultSum;
             }
-            else {
-                bigResult = resultMultipl;
+            if(resultMinus > bigResult)
+            {
+                bigResult= resultMinus;
             }
+            if(resultMultipl > bigResult)
+            {
+                bigResult= resultMultipl;
+            }
+            if(resultDivide > bigResult)
+            {
+                bigResult= resultDivide;
+            }
+            
+            Console.WriteLine("Biggest result: " + bigResult);
         }
     }
 }
