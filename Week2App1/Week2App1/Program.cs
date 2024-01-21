@@ -14,7 +14,13 @@
             Console.WriteLine("Please enter second Number");
             secondNumber = float.Parse(Console.ReadLine());
 
-            
+            while (secondNumber == 0)
+            {
+                Console.WriteLine("Write again connot be divided by 0");
+                secondNumber = float.Parse(Console.ReadLine());
+
+            }
+
             float resultSum = firstNumber + secondNumber;
 
             Console.WriteLine("Addition result: "+resultSum);
@@ -27,6 +33,7 @@
 
             Console.WriteLine("Multipl result: " + resultMultipl);
 
+            
             float resultDivide = firstNumber / secondNumber;
             Console.WriteLine("Divide result: " + resultDivide);
 
