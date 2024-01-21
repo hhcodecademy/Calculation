@@ -33,22 +33,47 @@
             float resultDivide = firstNumber / secondNumber;
             Console.WriteLine("Divide result: " + resultDivide);
 
-            float bigResult;
+            //float bigResult;
+            //if (resultSum > resultMinus)
+            //{
+            //    bigResult = resultSum;
+            //}
+            //else {
+
+            //    bigResult = resultMinus;
+            //}
+
+            //if (bigResult > resultMultipl)
+            //{
+            //    bigResult = bigResult;
+            //}
+            //else {
+            //    bigResult = resultMultipl;
+            //}
+
+            // if (bigResult > resultDivide)
+            //{
+            //    bigResult = bigResult;
+            //}
+            //else
+            //{
+            //    bigResult = resultDivide;
+            //}
             if (resultSum > resultMinus)
             {
-                bigResult = resultSum;
+                Console.WriteLine("birinci masadan sum secildi");
             }
-            else {
-
-                bigResult = resultMinus;
-            }
-
-            if (bigResult > resultMultipl)
+            else
             {
-                bigResult = bigResult;
+                Console.WriteLine("birinci masdan MINUS secildi");
             }
-            else {
-                bigResult = resultMultipl;
+            if(resultMultipl > resultDivide)
+            {
+                Console.WriteLine("ikinci masadan MULTIPI secildi");
+            }
+            else
+            {
+                Console.WriteLine("ikinci masadan DIVIDE secildi");
             }
         }
     }
