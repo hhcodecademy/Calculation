@@ -1,0 +1,15 @@
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.csproj.AssemblyReference.cache
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.AssemblyInfoInputs.cache
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.AssemblyInfo.cs
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.csproj.CoreCompileInputs.cache
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.exe
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.deps.json
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.runtimeconfig.json
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.dll
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.pdb
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.dll
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\refint\Week2App1.dll
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.pdb
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.genruntimeconfig.cache
+C:\Users\yusifry\Desktop\CodeAcademyProject501\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\ref\Week2App1.dll

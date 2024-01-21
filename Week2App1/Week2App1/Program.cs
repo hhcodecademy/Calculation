@@ -9,7 +9,7 @@
             float secondNumber;
 
             Console.WriteLine("Please enter first Number");
-            firstNumber= float.Parse( Console.ReadLine());
+            firstNumber = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Please enter second Number");
             secondNumber = float.Parse(Console.ReadLine());
@@ -17,12 +17,12 @@
             //rustem
             float resultSum = firstNumber + secondNumber;
 
-            Console.WriteLine("Addition result: "+resultSum);
+            Console.WriteLine("Addition result: " + resultSum);
 
             //narmin
             float resultMinus = firstNumber - secondNumber;
 
-            Console.WriteLine("Minus result: "+resultMinus);
+            Console.WriteLine("Minus result: " + resultMinus);
 
             //nicat
             float resultMultipl = firstNumber * secondNumber;
@@ -38,7 +38,8 @@
             {
                 bigResult = resultSum;
             }
-            else {
+            else
+            {
 
                 bigResult = resultMinus;
             }
@@ -47,9 +48,23 @@
             {
                 bigResult = bigResult;
             }
-            else {
+            else
+            {
                 bigResult = resultMultipl;
             }
+
+            if (bigResult > resultDivide)
+            {
+                 bigResult = bigResult;
+                }
+            else
+            {
+                bigResult = resultDivide;
+            }
+            Console.WriteLine("Big result " + bigResult);
+
+
+        
         }
     }
 }
