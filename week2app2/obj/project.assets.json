@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\week2app2\\week2app2.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week2App1_clone\\Calculation\\week2app2\\week2app2.csproj",
       "projectName": "week2app2",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\week2app2\\week2app2.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week2App1_clone\\Calculation\\week2app2\\week2app2.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\week2app2\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\code_academy_projects\\Week2App1_clone\\Calculation\\week2app2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

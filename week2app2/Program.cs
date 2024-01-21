@@ -30,9 +30,13 @@
             {
                 Console.WriteLine("Code Academy first day");
             }
-            else
+            else if (num ==7)
             {
                 Console.WriteLine("Code academy second day");
+            }
+            else
+            {
+                Console.WriteLine("Enter correct day");
             }
         }
     }
