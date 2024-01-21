@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\huseyn.hasanli\\.nuget\\packages\\": {},
+    "C:\\Users\\nijatjs\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
+      "projectUniqueName": "C:\\Users\\nijatjs\\Desktop\\PB8501\\task2\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
       "projectName": "Week2App1",
-      "projectPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\Week2App1.csproj",
-      "packagesPath": "C:\\Users\\huseyn.hasanli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huseyn.hasanli\\Desktop\\PB501Projects\\Week2App1\\Week2App1\\obj\\",
+      "projectPath": "C:\\Users\\nijatjs\\Desktop\\PB8501\\task2\\Calculation\\Week2App1\\Week2App1\\Week2App1.csproj",
+      "packagesPath": "C:\\Users\\nijatjs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nijatjs\\Desktop\\PB8501\\task2\\Calculation\\Week2App1\\Week2App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\huseyn.hasanli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nijatjs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

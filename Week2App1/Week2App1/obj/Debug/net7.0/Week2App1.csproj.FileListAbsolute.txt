@@ -1,0 +1,15 @@
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.exe
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.deps.json
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.runtimeconfig.json
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.dll
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\bin\Debug\net7.0\Week2App1.pdb
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.csproj.AssemblyReference.cache
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.AssemblyInfoInputs.cache
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.AssemblyInfo.cs
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.csproj.CoreCompileInputs.cache
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.dll
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\refint\Week2App1.dll
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.pdb
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\Week2App1.genruntimeconfig.cache
+C:\Users\nijatjs\Desktop\PB8501\task2\Calculation\Week2App1\Week2App1\obj\Debug\net7.0\ref\Week2App1.dll
