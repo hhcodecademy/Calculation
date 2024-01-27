@@ -50,6 +50,16 @@
             else {
                 bigResult = resultMultipl;
             }
+
+            if (bigResult>resultDivide)
+            {
+                bigResult = bigResult;
+
+            }
+            else
+            {
+                bigResult = resultDivide;
+            }
         }
     }
 }
